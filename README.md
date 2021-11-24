@@ -1,48 +1,24 @@
-# (project name)
+# More About ochalla
 
-<!-- describe your project -->
+my name is Angathanga ochalla okwayo ,i was born in 1998 in a village call
+ominanga , is a small village in Gambella back in Ethiopia in a royal family in
+a kingdom call DUUNG-NYUDOLA the largest kingship in our tribe of anyuak
+tribe,am the last born among my sibilings. we are five in total(children).
 
-## Getting Started
+To cut the story short ,currebtly am living in Kenya as a refugee in kalobeyei
+settlement,finish high school in kakuma in 2019 and now am under training at
+iTALANTA ACADEMY in Kakuma specialized as software developer
 
-<!-- a guide to using this repository -->
+# Angathanga Profile
 
-1. `git clone git@github.com:HackYourFutureBelgium/<project-name>.git`
-2. `cd project-name`
-3. `npm install`
+![image](https://avatars.githubusercontent.com/u/93644090?s=400&u=a677230b4be13144587cceca98894ffa1a8dd12d&v=4)
 
-## Code Quality Checks
+## Occupation Background
 
-- `npm run format`: Makes sure all the code in this repository is well-formatted
-  (looks good).
-- `npm run lint:ls`: Will lint the folder and file names in this repository to
-  make sure they match the repo conventions.
-- `npm run lint:md`: Will lint all of the Markdown files in this repository and
-  let you know if there are any style mistakes to fix.
-- `npm run spell-check`: Goes through all the files in this repository looking
-  for words it doesn't recognize. Just because it says something is a mistake
-  doesn't mean it is! It doesn't know every word in the world. You can add new
-  correct words to the [./.cspell.json](./.cspell.json) file so they won't cause
-  an error.
+In the year 2019 after completion of high school,i was given a task by the
+community to work with youths as an assistances manager though its hard i mange
+to lead. In the year 2020/07 i was called by finna church aid to work as an ECDE
+teacher corndinating teaching from home due to world pandamic COVID-19.
 
-## Continuous Integration (CI)
-
-When you open a PR to `main`/`master` in your repository, GitHub will
-automatically do a linting check on the code in this repository, you can see
-this in the[./.github/workflows/lint.yml](./.github/workflows/lint.yml) file.
-
-If the linting fails, you will not be able to merge the PR. You can double check
-that your code will pass before pushing by running `npm run lint:md` locally.
-
-## Repo Setup
-
-- Give each member _write_ access to the repo (if it's a group project)
-- Turn on GitHub Pages and put a link to your website in the repo's description
-- Turn on GitHub Actions
-- in the _Branches_ section of your repo's settings make sure:
-  - The repository
-    [requires a review](https://github.blog/2018-03-23-require-multiple-reviewers/)
-    before pull requests can be merged.
-  - The `master`/`main` branch must "_Require status checks to pass before
-    merging_"
-  - The `master`/`main` branch must "_Require require branches to be up to date
-    before merging_"
+Later i resign from finna church aid and join Windle International Kenya as a
+community mobilizer in 2021 upto date.
