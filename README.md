@@ -5,7 +5,7 @@ ominanga , is a small village in Gambella back in Ethiopia in a royal family in
 a kingdom call DUUNG-NYUDOLA the largest kingship in our tribe of anyuak
 tribe,am the last born among my sibilings. we are five in total(children).
 
-To cut the story short ,currebtly am living in Kenya as a refugee in kalobeyei
+To cut the story short ,currently am living in Kenya as a refugee in kalobeyei
 settlement,finish high school in kakuma in 2019 and now am under training at
 iTALANTA ACADEMY in Kakuma specialized as software developer
 
